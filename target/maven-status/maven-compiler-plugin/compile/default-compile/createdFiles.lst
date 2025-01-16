@@ -1,0 +1,5 @@
+app\DemoApplication.class
+app\controller\CalculosController.class
+app\service\CalculosService.class
+app\entity\Resultado.class
+app\entity\Entrada.class
